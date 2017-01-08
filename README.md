@@ -1,2 +1,3 @@
 # hello-world
-this is my first proyect in GitHub
+Hi Humans!
+Hola soy Luis Alberto y acabo de saludar
